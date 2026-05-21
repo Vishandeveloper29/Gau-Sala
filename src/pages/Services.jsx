@@ -1,8 +1,9 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
-import herobanner from '../assets/images/serviceHeroBanner.png'
+import herobanner from "../assets/images/serviceherobanner.png";
 import { BriefcaseMedical, Leaf, Ambulance, GraduationCap, Sprout, Phone, ShieldPlus, Trees } from "lucide-react";
+
 const Services = () => {
   return (
     <div>
