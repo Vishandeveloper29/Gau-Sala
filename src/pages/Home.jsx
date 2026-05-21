@@ -11,7 +11,7 @@ import {
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import ourmission from "../assets/images/our-mission.png";
-import heroimage from "../assets/images/aboutheroBanner.png";
+import heroimage from "../assets/images/hero-image.png";
 import beforenandi from "../assets/images/befornandi.png";
 import afternandi from "../assets/images/afternandi.png";
 
