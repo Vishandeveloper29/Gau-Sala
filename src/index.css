@@ -1,0 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Platypi:wght@300..800&display=swap");
+@import "tailwindcss";
+
+.name-logo {
+  font-family: "Platypi", serif;
+}
